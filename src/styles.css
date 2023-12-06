@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  outline: black 1px solid;
+  width: 500px;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+button {
+  border-style: none;
+  padding: 10px;
+  border-radius: 5px;
+  outline: black 1px solid;
+}
