@@ -1,2 +1,2 @@
 # Redux-Toolkit-Counter
-Created with CodeSandbox
+A counter I made using Redux toolkit
